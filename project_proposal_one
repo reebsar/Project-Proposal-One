@@ -1,0 +1,20 @@
+Asian Demographics Survey.  
+Pew Social Trends recently published data in a .sav file on the attitudes and demographics of Asian Americans.  
+With some basic statistics we can see what different faith groups and ethnic groups feel about the position of America 
+and the future of America.  
+I think Processing would be a useful way to build an interactive that would display what specific ethnic groups, 
+that are identified as Asian Americans think about certain topics.
+
+
+State of the Arts.  
+I would like to use information from the last five years of data on museums to see how cultural 
+institutions fared through the recession(s).  
+I think processing would help visualize museum health on America using traditional graphing methods 
+that grow and change over time.
+
+
+UNESCO 2013 Statistics.  I’m interested in how these tables relate to one another.  
+For example, how does the countries economic status affect the literacy rate.  
+I think Processing can make scatterplots that put these two metrics against each other, 
+and potentially identify countries that made big changes over time.  
+ 
